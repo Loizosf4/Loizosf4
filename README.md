@@ -18,7 +18,7 @@ I'm currently seeking internship opportunities where I can deepen my skills in g
 
 ### 🚀 Featured projects
 
-- 🎮 **3D Platformer** — Unity/C# platformer with custom movement systems, dynamic lighting, and scene management
+- 🎮 **3D Platformer** — Unity/C# platformer with custom movement systems, dynamic lighting, and scene management made for ComputerScience course
 
 ---
 
